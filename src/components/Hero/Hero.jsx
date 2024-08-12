@@ -13,11 +13,15 @@ export const Hero = () => {
 
         <h1 className={styles.soustitle}>My soft skills</h1>
 
-        <p className={styles.description}> 
-        * Problem Solving & Critical Thinking * Time Management * Teamwork * Critical Thinking * Leadership * Self-Reliability * Self-Motivation​.
-        </p>
+        
+        <a>
         <a href="mailto:GatriMahdi5@gmail.com" className={styles.contactBtn}>
           Contact Me
+          </a>
+        <a href="https://fastupload.io/21cae59b3f4354c1" className={styles.cv_download}>
+          Resume Download
+       
+        </a>
         </a>
       </div>
       
