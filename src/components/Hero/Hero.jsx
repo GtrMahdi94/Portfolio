@@ -11,7 +11,6 @@ export const Hero = () => {
         As a passionate Full Stack Developer with respectful knowledge in Web and App development. Skilled in dealing with technical and non-technical challenges eager to develop IT solutions and projects.
         </p>
 
-        <h1 className={styles.soustitle}>My soft skills</h1>
 
         
         <a>
