@@ -29,11 +29,34 @@
   gap: 37px;
 }
 
+/* .skill {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 11px;
+} */
 .skill {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 11px;
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth animation */
+}
+
+.skill:hover {
+  transform: scale(1.05); /* Scale the element slightly */
+  color: #007BFF; /* Change text color or any other property you like */
+}
+
+@keyframes hoverEffect {
+  from {
+    transform: scale(1);
+    color: inherit;
+  }
+  to {
+    transform: scale(2);
+    color: #007BFF;
+  }
 }
 
 .skillImageContainer {
@@ -113,8 +136,10 @@
     justify-content: center;
   }
 
-  .history {
+  
+
+  /* .history {
     width: 100%;
     gap: 9px;
-  }
+  } */
 }

@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Pets App",
+    "imageSrc": "projects/pet.png",
+    "description": "Where can you adopt a pet, buy or sell anything for pets.",
+    "skills": ["React-Native", "Firebase"],
+    "demo": "https://files.fm/u/y8y8yabdz2#/view/yvp7u66ep6",
+    "source": "https://github.com/pets-final/Pets"
   },
   {
-    "title": "Project B",
+    "title": "Booking WebSite",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "Here where people can reserve a vol or hotel with payment.",
+    "skills": ["TypeScript","Sequelize","React"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ticketReservation/TRIMPA"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "E-Doctor",
+    "imageSrc": "projects/EDoctor.png",
+    "description": "Make web site where the people can take appointment with doctor also can call or video call.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ticketReservation/E-Doctor"
   }
 ]

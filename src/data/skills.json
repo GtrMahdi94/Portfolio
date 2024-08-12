@@ -16,15 +16,23 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "React-Native",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "FireBase",
+    "imageSrc": "skills/FireBase.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   }
 ]
