@@ -14,9 +14,9 @@ export const Hero = () => {
 
         
         <a>
-        <a href="mailto:GatriMahdi5@gmail.com" className={styles.contactBtn}>
+        {/* <a href="mailto:GatriMahdi5@gmail.com" className={styles.contactBtn}>
           Contact Me
-          </a>
+          </a> */}
         <a href="https://fastupload.io/21cae59b3f4354c1" className={styles.cv_download}>
           Resume Download
        
